@@ -35,12 +35,6 @@ Filtro por meses específicos
 
 Dashboard interativo com múltiplas métricas
 
-### 👨‍💻 Autor
-
-Nome: Jonathas Silva
-
-GitHub: @Jhonn-0
-
 # 🚀 Rode a aplicação
 
 bash
