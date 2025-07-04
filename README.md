@@ -35,12 +35,6 @@ Filtro por meses específicos
 
 Dashboard interativo com múltiplas métricas
 
-### 👨‍💻 Autor
-
-Nome: Jonathas Silva
-
-GitHub: @Jhonn-0
-
 # 🚀 Rode a aplicação
 
 bash
@@ -48,6 +42,10 @@ Copiar
 Editar
 python -m streamlit run scripts/dashboard_pld.py
 O navegador será aberto automaticamente em http://localhost:8501. 
+
+## 📸 Demonstrações
+
+![IMG](IMG/DASH.png)
 
 ### 📜 Licença
 
