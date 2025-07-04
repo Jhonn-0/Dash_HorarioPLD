@@ -35,7 +35,11 @@ Filtro por meses específicos
 
 Dashboard interativo com múltiplas métricas
 
+<<<<<<< HEAD
 # 🚀 Rode a aplicação
+=======
+### 🚀 Rode a aplicação
+>>>>>>> 9b7eebb8e77f97009e00523e4220c2503b2f1c7b
 
 bash
 Copiar
